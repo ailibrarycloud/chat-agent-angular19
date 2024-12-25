@@ -8,7 +8,7 @@ import { FormsModule } from "@angular/forms";
 import { HttpClientModule } from "@angular/common/http";
 
 const namespace = "default-agent"; // Replace with your agent's namespace
-const XLibraryKey = "d4qgdcs2lgUBvwWDFjC6NeOIrLS87cpoDHlwPL5a"; // Replace with your API key
+const XLibraryKey = ""; // Replace with your API key
 
 @Component({
   selector: "app-root", // Changed from "app-playground-assistant-stream" to "app-root"
